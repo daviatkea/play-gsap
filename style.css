@@ -1,0 +1,11 @@
+.spacer {
+  margin-block: 100vh;
+}
+
+h1 {
+  inline-size: max-content;
+}
+
+body {
+  margin: 0;
+}
